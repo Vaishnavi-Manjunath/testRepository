@@ -1,0 +1,28 @@
+.Footer{
+    display: block;
+    background-color: #2e372e;
+    margin-top: 215px;
+
+}
+.footName{
+    margin-left:10px;
+    color:blanchedalmond;
+}
+
+.footerMargin{
+        width: 100%;
+    height: 25px;
+    background-color: #b95a08;
+    overflow: auto;
+    margin-top: 15px;
+
+}
+
+.contact{
+    color: wheat;
+    text-decoration: none;
+    padding: 40px;
+    font-size: 35px;
+    font-weight: revert;
+    text-decoration-line: underline;
+}

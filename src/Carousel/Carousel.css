@@ -1,0 +1,27 @@
+.carousel-root{
+    display: inline-grid;
+    width: 60%;
+    height: 615px;
+    padding: 70px 0px 0px 500px;
+}
+
+.carousel-item{
+    position: relative;
+    display: none;
+    float: left;
+    width: 90%;
+    margin-left: 131px;
+    padding: 50px 50px 2px 5px;
+    height: 467px;
+    /* margin-right: -100%; */
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.caption{
+    font-size: 5.5rem;
+    float: left;
+    margin-left: -256px;
+}
+
